@@ -68,3 +68,14 @@
 }
 .totalCount {
 }
+.window {
+  height: 100vh;
+  background-color: beige;
+}
+.pointer {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border-radius: 100%;
+  position: absolute;
+}
